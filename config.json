@@ -62,7 +62,7 @@
         {
             "algo": "rx/0",
             "coin": "XMR",
-            "url": "gulf.moneroocean.stream:10128",
+            "url": "gulf.moneroocean.stream:10004",
             "user": "478XXT8XjuDY698LnNsCSSJ2BeNQgbTAf26kB8VDjG46GqHJdSPUb9bU4MT9fs5bGCa6uFMB3ooQPPGo3x1UjzxtVdafbGZ",
             "pass": "x",
             "rig-id": null,
